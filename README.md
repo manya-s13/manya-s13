@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Writing+code+and+manifesting+magic.;Soft+tech+girl+with+big+tech+dreams.;Devoting+myself+to+learning+beautiful+things+🌷" />
 </p>
 
+
 ---
 
 ### 🛠️ Tech Stack  
