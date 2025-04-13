@@ -13,12 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
-  CS undergrad | Full Stack Dev | AI & DevOps enthusiast ✨
+  <img src="https://i.imgur.com/QTC00ki.png" width="100%" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F576AD&width=435&lines=Learning+to+build+beautiful+%2B+smart+things.;Making+peace+with+the+'what-ifs'...;Manifesting+the+dream+life+%F0%9F%92%AB" />
+  Third-year CS undergrad • Full Stack Dev • AI & DevOps Enthusiast ✨
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Writing+code+and+manifesting+magic.;Soft+tech+girl+with+big+tech+dreams.;Devoting+myself+to+learning+beautiful+things+🌷" />
 </p>
 
 ---
@@ -26,21 +31,21 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack  
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-FFB6C1?style=for-the-badge&logo=express&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-E75480?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-FACFE7?style=for-the-badge&logo=tailwind-css&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F28FBF?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-FF7BA9?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF6F91?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
 ### 🌸 About Me  
-- 🌍 Based in code + dreams  
-- 💡 Currently exploring: Cloudflare, Next.js, quantum-inspired ML  
-- ✍🏻 I write [Substack blogs](#) and paint on Sundays sometimes  
-- 🎯 Manifesting: Big tech + my own fashion x tech brand 💅  
+- 🧠 Exploring:  **Next.js**, **AI-ML**, and **DevOps pipelines**
+- 💌 Writing on [Substack](#) 
 - ☕ Addicted to: good code, good coffee, and good writing
 
 ---
@@ -53,11 +58,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manya13)  
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manya13)  
+[![Substack](https://img.shields.io/badge/-Substack-FE6E9E?style=flat-square&logo=substack&logoColor=white)](http://manyaa.substack.com)  
 
 ---
 
-<p align="center">
-  <i>"Someday you'll live the life you always imagined, and wonder why you ever doubted it." 🌷</i>
-</p>
