@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F576AD&width=435&lines=Learning+to+build+beautiful%2B+things.;exploring+new+tech...;curious+learner+%F0%9F%92%AB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F576AD&width=435&lines=Learning+to+build+beautiful%2Bthings.;exploring+new+tech...;curious+learner+%F0%9F%92%AB" />
 </p>
 
 
