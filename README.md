@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/QTC00ki.png" width="100%" alt="banner" />
-</p>
-
-<p align="center">
   Third-year CS undergrad • Full Stack Dev • AI & DevOps Enthusiast ✨
 </p>
 
@@ -37,10 +33,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-FFB6C1?style=for-the-badge&logo=express&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-E75480?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-FEE3EC?style=for-the-badge&logo=next.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-F28FBF?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-FACFE7?style=for-the-badge&logo=tailwind-css&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F28FBF?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-FF7BA9?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF6F91?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
+  
 </p>
 
 ---
