@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Writing+code+and+manifesting+magic.;Soft+tech+girl+with+big+tech+dreams.;Devoting+myself+to+learning+beautiful+things+🌷" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F576AD&width=435&lines=Learning+to+build+beautiful+%2B+smart+things.;Making+peace+with+the+'what-ifs'...;Manifesting+the+dream+life+%F0%9F%92%AB" />
 </p>
+
 
 
 ---
